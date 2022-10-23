@@ -8,7 +8,7 @@
 
 Um website da Clínica médica DoctorCare. Feita durante o evento da Rocketseat (NLW - Return)
 
-- site final: [doctor-care-one.vercel.app/](https://doctor-care-one.vercel.app/)
+- Site Final: [doctor-care-one.vercel.app/](https://doctor-care-one.vercel.app/)
 
 ## 🚀 Tecnologias
 
@@ -24,22 +24,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ScrollReveal](https://scrollrevealjs.org/)
 
 
-## 💻 Autor
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/EvanderInacio">
-        <img src="https://avatars.githubusercontent.com/u/72362299?s=96&v=4" width="100px;" /><br>
-        <sub>
-          <b>Evander Inácio</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Evander Inácio</a> ☕</h3>
+  <h3 align="center"> Developed by <a href="#">Marcelo Abreu</a> ☕</h3>
 
 
