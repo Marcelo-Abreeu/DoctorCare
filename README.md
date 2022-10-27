@@ -2,13 +2,13 @@
   DoctorCare 👨‍⚕️
 </h1>
 
-<img src="https://raw.githubusercontent.com/EvanderInacio/DoctorCare/main/assets/images/doctor-care-one.vercel.app_.png">
+<img src="assets/Screenshot-site.png">
 
 ## 📝 Descrição 
 
 Um website da Clínica médica DoctorCare. Feita durante o evento da Rocketseat (NLW - Return)
 
-- Site Final: [doctor-care-one.vercel.app/](https://doctor-care-one.vercel.app/)
+- Versão Final: [doctor-care-one.vercel.app/](https://doctor-care-one.vercel.app/)
 
 ## 🚀 Tecnologias
 
