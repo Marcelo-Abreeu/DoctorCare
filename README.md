@@ -9,7 +9,7 @@
 Um website da Clínica médica DoctorCare. Feita durante o evento da Rocketseat (NLW - Return)
 com algumas modificações.
 
-- Versão Final: [Doctor-care](https://abreu-marcelo.github.io/DoctorCare/#home)
+- Versão Final: [Doctor-care](https://marcelo-abreeu.github.io/DoctorCare/)
 
 ## 🚀 Tecnologias
 
