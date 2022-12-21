@@ -2,7 +2,7 @@
   DoctorCare 👨‍⚕️
 </h1>
 
-<img src="assets/Screenshot-site.png">
+<img src="assets/screenshotsite.jpeg">
 
 ## 📝 Descrição 
 
